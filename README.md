@@ -1,5 +1,5 @@
-# Role Playing Game
-Command line based Role Playing Game (RPG).
+# Role-Playing Game
+Command-line based Role-Playing Game (RPG).
 
 ## Compilation
 `$ make clean`
